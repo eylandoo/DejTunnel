@@ -11,7 +11,6 @@ Say goodbye to complex manual configurations. With DejTunnel, you can deploy a f
 
 ### 📸 Dashboard Preview
 
-*(Note: Replace this with a real screenshot of your dashboard)*
 ![OVPN Manager Dashboard](https://uploadkon.ir/uploads/048b11_25dejtunnel.png)
 ---
 
