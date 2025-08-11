@@ -9,6 +9,12 @@ DejTunnel is a powerful, self-hosted web panel designed to simplify the creation
 
 Say goodbye to complex manual configurations. With DejTunnel, you can deploy a full-featured, secure mesh VPN in minutes.
 
+### 📸 Dashboard Preview
+
+*(Note: Replace this with a real screenshot of your dashboard)*
+![OVPN Manager Dashboard](https://uploadkon.ir/uploads/048b11_25dejtunnel.png)
+---
+
 ## ✨ Key Features
 
 * **🚀 One-Command Installation**: A single bash script handles all dependencies, configures the main server, sets up the web panel, and starts all necessary services.
